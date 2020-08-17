@@ -1,0 +1,7 @@
+name: CraftEra Suite - Baby Entities
+version: ${project.version}
+main: com.github.michelarendt.craftera_suite.baby_entities.Main
+api-version: 1.16
+prefix: [CraftEra Suite - Baby Entities]
+description: Locks entities age and prevents them from growing up.
+website: https://github.com/MichelArendt/craftera_suite-baby_entities
